@@ -1,0 +1,10 @@
+{
+    "manifest_version":2,
+    "name":"Ad Shield",
+    "version":"2.4.0",
+    "description": "Ad Shield is a UEL/Request Blocking Extension by (C) Killercodes.github.io",
+    "permission":["webRequest","webRequestBlocking","<all_urls>"],
+    "background":{
+        "scripts":["main.js"]
+    }
+}

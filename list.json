@@ -1,0 +1,11 @@
+[
+    "*://*.doubleclick.net/*",
+    "*://*.googleadservices.com/*",
+    "*://*.googlesyndication.com/*",
+    "*://*.moat.com/*",
+    "*://*.taboola.com/*",
+    "*://*.pubmine.com/*",
+    "*://*.adroll.com/*",
+    "*://*.clmbtech.com/*",
+    "*://*.2mdn.net"
+]
