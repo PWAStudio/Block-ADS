@@ -7,7 +7,7 @@
       };
     };
   
-    var jsonArray = await fetch("https://raw.githubusercontent.com/Killercodes/js/main/lib/ext/NOADS/list.json");
+    var jsonArray = await fetch("https://raw.githubusercontent.com/PWAStudio/NOADS/main/list.json");
     var list = await jsonArray.json();
     var blockedUrls = {
       urls: list
